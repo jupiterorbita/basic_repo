@@ -1,2 +1,4 @@
 this is file
 "A"
+THIS LINE IS EDITED
+SO I THIS ONE
